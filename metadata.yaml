@@ -1,0 +1,32 @@
+_repo: The-Dead-Are-Silent1907_23061
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schnitzler, Arthur
+    birthdate: 1862
+    deathdate: 1931
+    gutenberg_agent_id: '3010'
+    url: http://www.gutenberg.org/2009/agents/3010
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Schnitzler
+description: ''
+gutenberg_issued: '2007-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23061'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Death -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Adultery -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Psychological fiction'
+title: 'The Dead Are Silent
+
+  1907'
+url: http://www.gutenberg.org/ebooks/23061
